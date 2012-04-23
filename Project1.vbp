@@ -6,6 +6,7 @@ Module=Module1; Module1.bas
 Class=Class1; Class1.cls
 UserControl=UserControl1.ctl
 PropertyPage=PropertyPage1.pag
+IconForm="Form1"
 Startup="Form1"
 Command32=""
 Name="Project1"
